@@ -73,7 +73,7 @@
 直 straightaway
 具 tool
 真 true
-工 craft
+工 craft / artificial
 左 left
 右 right
 有 possess
