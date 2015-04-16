@@ -1,6 +1,7 @@
 # kanji
 I will be posting five new characters that I learn from Remembering The Kanji, Part 1 (verison 3).
 
-kanji.txt consists of each character on a new line, where the line number cooresponds to the key-word in the textbook.
-
-kanji.min.txt contains every character on a single line, with no separation.
+- **kanji.txt** consists of each character on a new line, where the line number corresponds to the key-word in the textbook.
+- **kanji.min.txt** contains every character on a single line with no separation
+- **primitives.txt** contains every primitive on a new line
+- **primitives.min.txt** contains every primitive on a single line with no separation
