@@ -118,3 +118,8 @@
 削 plane
 光 ray
 太 plump
+器 utensil
+臭 stinking
+妙 exquisite
+省 focus
+厚 thick
