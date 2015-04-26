@@ -128,3 +128,8 @@
 州 state
 順 obey
 水 water
+氷 icicle
+永 eternity
+泉 spring
+原 meadow
+願 petition
