@@ -133,3 +133,8 @@
 泉 spring
 原 meadow
 願 petition
+泳 swim
+沼 marsh
+沖 open sea
+江 creek
+汁 soup
