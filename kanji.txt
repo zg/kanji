@@ -42,7 +42,7 @@
 升 measuring box
 昇 rise up
 丸 round / fat man
-寸 measurement
+寸 measurement / glue / glued to
 専 specialty
 博 doctor / acupuncturist
 占 fortune-telling
@@ -147,7 +147,7 @@
 泊 overnight
 湖 lake
 測 fathom
-土 soil / dirt / land
+土 soil / ground / dirt / land
 吐 spit
 圧 pressure
 埼 cape
