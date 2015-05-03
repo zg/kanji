@@ -158,3 +158,8 @@
 寺 Buddhist temple
 時 time
 均 level
+火 fire
+炎 inflammation
+煩 anxiety
+淡 thin
+灯 lamp
