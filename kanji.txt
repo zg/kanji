@@ -158,8 +158,13 @@
 寺 Buddhist temple
 時 time
 均 level
-火 fire
+火 fire / fireplace / hearth / conflagration
 炎 inflammation
 煩 anxiety
 淡 thin
 灯 lamp
+畑 farm
+災 disaster
+灰 ashes
+点 spots
+照 illuminate
