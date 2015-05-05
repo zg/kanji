@@ -1,4 +1,6 @@
-<?php
+#!/usr/local/bin/python
+# -*- coding: utf-8 -*-
+#
 # Reads in kanji.txt and outputs kanji.min.txt and kanji.day.txt
 #
 # kanji.txt contains each character on a new line, followed by a space, and a
@@ -28,15 +30,12 @@
 # 一二三四五
 # 六七八九十
 #
-$all_kanji = "";
-foreach(explode("\n",file_get_contents("kanji.txt")) as $line)
-    $all_kanji .= substr($line,0,3);
-file_put_contents("kanji.min.txt",$all_kanji."\n");
 
-# chunk_split is not multibyte safe, so we have to convert it to EUC-JP, chunk
-# it, then convert it back to UTF-8.
-file_put_contents("kanji.day.txt",
-    mb_convert_encoding(
-        chunk_split(
-            mb_convert_encoding($all_kanji,"EUC-JP","UTF-8"),10,"\n")
-    ,"UTF-8","EUC-JP"));
+with open('kanji.txt', 'r') as f:
+    all_kanji = [line[0:3] for line in f]
+
+with open('kanji.min.txt', 'w') as f:
+    f.write("".join(all_kanji)+"\n")
+
+with open('kanji.day.txt', 'w') as f:
+    f.write("".join(["\n" + kanji if i % 5 == 0 and 0 < i else kanji for i, kanji in enumerate(all_kanji)])+"\n")
