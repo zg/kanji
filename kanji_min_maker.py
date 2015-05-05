@@ -38,4 +38,4 @@ with open('kanji.min.txt', 'w') as f:
     f.write("".join(all_kanji)+"\n")
 
 with open('kanji.day.txt', 'w') as f:
-    f.write("".join(["\n" + kanji if i % 5 == 0 and 0 < i else kanji for i, kanji in enumerate(all_kanji)])+"\n")
+    f.write("".join([kanji if (i+1) % 5 else kanji + "\n" for i, kanji in enumerate(all_kanji)]))
