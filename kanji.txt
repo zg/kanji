@@ -198,3 +198,8 @@
 桂 Japanese Judas-tree
 柏 oak
 枠 frame
+梢 treetops
+棚 shelf
+杏 apricot
+桐 paulownia
+植 plant
