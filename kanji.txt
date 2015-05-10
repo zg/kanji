@@ -193,3 +193,8 @@
 富 wealth
 貯 savings
 木 tree
+林 grove
+森 forest
+桂 Japanese Judas-tree
+柏 oak
+枠 frame
