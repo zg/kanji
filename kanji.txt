@@ -203,3 +203,8 @@
 杏 apricot
 桐 paulownia
 植 plant
+枯 wither
+朴 crude
+村 town
+相 inter-
+机 desk
