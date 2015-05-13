@@ -208,3 +208,8 @@
 村 town
 相 inter-
 机 desk
+本 book
+札 tag
+曆 calendar
+案 plan
+燥 parch
