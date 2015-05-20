@@ -243,3 +243,8 @@
 狩 hunt
 猫 cat
 牛 cow
+特 special
+告 revelation
+先 before
+洗 wash
+介 jammed in
