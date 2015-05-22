@@ -253,3 +253,8 @@
 合 fit
 塔 pagoda
 王 king
+玉 jewel
+宝 treasure
+珠 pearl
+現 present
+狂 lunatic
