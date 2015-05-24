@@ -262,4 +262,9 @@
 呈 display
 全 whole
 栓 plug
-理 lord
+理 logic
+主 lord
+注 pour
+柱 pillar
+金 gold
+銑 pig-iron
