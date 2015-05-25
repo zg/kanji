@@ -268,3 +268,8 @@
 柱 pillar
 金 gold
 銑 pig-iron
+鉢 bowl
+銅 copper
+釣 angling
+針 needle
+銘 inscription
