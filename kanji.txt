@@ -283,3 +283,8 @@
 逃 escape
 辺 environs
 巡 patrol
+車 car
+連 take along
+軌 rut
+輸 transport
+前 in front
