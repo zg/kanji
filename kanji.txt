@@ -292,4 +292,9 @@
 格 status
 略 abbreviation
 客 guest
-額 forehead (295)
+額 forehead
+夏 summer
+処 dispose
+条 twig
+落 fall
+冗 superfluous
