@@ -323,3 +323,8 @@
 壳 sell
 学 study
 覚 memorize
+栄 flourish
+書 write
+津 haven
+牧 breed
+攻 aggression
