@@ -328,3 +328,8 @@
 津 haven
 牧 breed
 攻 aggression
+敗 failure
+枚 sheet of...
+故 happenstance
+敬 awe
+言 say
