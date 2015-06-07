@@ -252,8 +252,8 @@
 茶 tea
 合 fit
 塔 pagoda
-王 king
-玉 jewel
+王 king / sceptre
+玉 jewel / ball
 宝 treasure
 珠 pearl
 現 present
@@ -263,10 +263,10 @@
 全 whole
 栓 plug
 理 logic
-主 lord
+主 lord / candlestick
 注 pour
 柱 pillar
-金 gold
+金 gold / metal
 銑 pig-iron
 鉢 bowl
 銅 copper
