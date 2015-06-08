@@ -338,3 +338,8 @@
 獄 prison
 訂 revise
 討 chastise
+訓 instruction
+詔 imperial edict
+詰 packed
+詰 tale
+詠 recitation
