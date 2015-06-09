@@ -343,3 +343,8 @@
 詰 packed
 詰 tale
 詠 recitation
+詩 poem
+語 word
+読 read
+調 tune
+談 discuss
