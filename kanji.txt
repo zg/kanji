@@ -353,3 +353,8 @@
 式 style
 試 test
 弐 II
+域 range
+賊 burglar
+栽 plantation
+載 load
+茂 overgrown
