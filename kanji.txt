@@ -368,3 +368,8 @@
 銭 coin
 浅 shallow
 止 stop
+歩 walk
+渉 ford
+頻 repeatedly
+肯 agreement
+企 undertake
